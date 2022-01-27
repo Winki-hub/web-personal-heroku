@@ -1,0 +1,25 @@
+.fullStack {
+  color: white;
+  font-weight: 800;
+  font-size: 30px;
+  margin: 5px 15px 5px;
+  text-align: left;
+  font-family: Myriad Variable Concept;
+}
+.descriptionTittle {
+  color: white;
+  font-weight: 800;
+  font-size: 40px;
+  margin: -5px 15px 5px;
+  text-align: left;
+  font-family: Myriad Variable Concept;
+}
+.description-myself {
+  color: white;
+  margin: 5px 15px 5px;
+  font-family: Myriad Variable Concept;
+  font-size: 20px;
+}
+.descriptionGeneral {
+  margin-top: 25px;
+}

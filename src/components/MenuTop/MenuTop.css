@@ -1,0 +1,22 @@
+.menuTop {
+  font-size: larger;
+  font-weight: 700;
+  background-color: rgba(0, 0, 0, 0.685);
+}
+
+.cv-menu-pepe {
+  display: flex;
+}
+
+.cv-menu {
+  padding: 10px 10px;
+  color: white;
+  text-decoration: none;
+}
+.cv-menu:hover {
+  padding: 10px 10px;
+  background-color: khaki;
+
+  color: black;
+  text-decoration: none;
+}

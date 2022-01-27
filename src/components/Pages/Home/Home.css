@@ -1,0 +1,27 @@
+.myName {
+  margin: 70px 0px 25px 0px;
+  font-size: 90px;
+  font-weight: bold;
+}
+.ponerseEnContactoIcono {
+  margin: 5px 20px 5px;
+  max-width: 50px;
+}
+.myName,
+.presentation {
+  color: white;
+  font-family: Myriad Variable Concept, sans-serif;
+}
+.presentation,
+.columnIcons,
+.myName {
+  text-align: center;
+}
+.presentation {
+  font-size: 25px;
+  text-shadow: 0.2em 0.2em 0.2em black;
+}
+
+.containerHome {
+  text-align: center;
+}

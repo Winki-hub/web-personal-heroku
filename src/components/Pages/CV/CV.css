@@ -1,0 +1,21 @@
+.cvContainer {
+  background-color: #e5c36ebd;
+  margin-top: 35px;
+}
+.colPerfilInfo {
+  display: flex;
+  background-color: #32274ece;
+  flex-direction: column;
+}
+.foto {
+  margin: 5px 45px -45px;
+  max-width: 250px;
+}
+.miNombre {
+  color: white;
+  margin: 5px 15px 25px;
+  font-size: 55px;
+  max-inline-size: 75px;
+  font-family: Perpetua Titling MT;
+  font-weight: 600;
+}

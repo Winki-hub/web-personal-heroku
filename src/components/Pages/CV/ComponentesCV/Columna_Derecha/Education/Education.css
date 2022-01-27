@@ -1,0 +1,20 @@
+.education {
+  font-family: Minion Variable Concept;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-thickness: 4px;
+  text-align: center;
+  margin: 5px 55px 5px;
+  color: #118c99;
+}
+.date {
+  font-family: Myriad Variable Concept, sans-serif;
+  font-weight: bold;
+  color: white;
+  margin: 5px 65px 5px;
+  text-align: center;
+}
+.studies {
+  margin: -10px 65px 5px;
+  text-align: center;
+}

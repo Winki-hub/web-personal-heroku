@@ -1,0 +1,23 @@
+.title {
+  font-family: Minion Variable Concept;
+  font-weight: bold;
+  color: #118c99;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-thickness: 4px;
+}
+.date {
+  font-family: Myriad Variable Concept, sans-serif;
+  font-weight: bold;
+  color: white;
+  margin: 5px 65px 5px;
+  text-align: center;
+  text-align: center;
+}
+.knowledges {
+  margin: -5px 65px 5px;
+  text-align: center;
+  font-size: 19px;
+  align-self: left;
+  font-weight: bold;
+}

@@ -1,0 +1,30 @@
+.telefono {
+  color: white;
+  font-family: Myriad Variable Concept;
+  margin: -5px 15px 5px;
+  font-size: 20px;
+}
+.email {
+  color: white;
+  font-family: Myriad Variable Concept;
+  margin: -5px 15px 5px;
+  font-size: 20px;
+}
+.contactInfo {
+  color: white;
+  font-weight: 800;
+  font-size: 29px;
+  margin: 5px 15px 5px;
+  text-align: left;
+  font-family: Myriad Variable Concept;
+}
+.edad {
+  color: white;
+  font-family: Myriad Variable Concept;
+  margin: -10px 15px 5px;
+  font-size: 20px;
+}
+.infoGeneral {
+  margin-top: 35px;
+  margin-bottom: 35px;
+}

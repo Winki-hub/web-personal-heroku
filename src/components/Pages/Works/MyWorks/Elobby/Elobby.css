@@ -1,0 +1,30 @@
+.titleElobby,
+.descriptionElobby,
+.urlElobby,
+.stackElobby {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  font-family: Myriad Variable Concept, sans-serif;
+  margin: 10px auto 10px;
+}
+
+.elobbyScreenshotStyle {
+  width: 100% !important;
+  max-width: 800px;
+  height: auto;
+  opacity: 0.95;
+  margin: 10px auto 10px;
+}
+.descriptionElobby {
+  font-size: 18px;
+}
+.image-mern {
+  text-align: center;
+  height: auto;
+  opacity: 0.95;
+}
+.stackElobby h4 {
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
